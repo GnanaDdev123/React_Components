@@ -15,7 +15,6 @@ const Input=()=>{
     return(
         <form>
             <Lable/>
-            <input></input>
             
         </form>
     )
